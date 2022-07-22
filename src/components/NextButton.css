@@ -1,0 +1,13 @@
+.ButtonContainer {
+    padding: 20px 45px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.Button {
+    border-radius: 50%;
+}
+
+.Button i {
+    font-size: 2.1rem;
+}
